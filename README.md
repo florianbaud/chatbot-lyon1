@@ -37,11 +37,6 @@ On peut maintenant installer _ChatbotDS_.
 $ pip install -e ./ChatbotDS
 ```
 
-**Procédure de deploiement :**
+## Publication
 
-```bash
-$ sudo docker-compose down
-$ sudo git pull
-$ sudo docker-compose build
-$ sudo docker-compose up -d
-```
+**Poster** : _Florian Baud_ et _Alex Aussem_, Répondre aux requêtes des étudiants avec un agent conversationnel à mémoire supervisée, EGC Janvier 2023, Lyon
